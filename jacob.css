@@ -1,0 +1,15 @@
+a {
+    color:black
+}
+
+a:hover {
+    color:green;
+}
+
+i {
+    color:rgb(0, 211, 141)
+}
+
+i:hover {
+    color: yellow
+}
